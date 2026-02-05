@@ -1,0 +1,197 @@
+[
+  {
+    "id": 101,
+    "name": "Beetle Queen",
+    "description": "A massive beetle that commands swarms of smaller beetles to overwhelm survivors.",
+    "health": 2100,
+    "isActive": true,
+    "firstEncounterDate": "2020-03-31",
+    "imageUrl": "https://example.com/bosses/beetle_queen.jpg",
+    "difficulty": "Easy",
+    "abilities": ["Summon Beetles", "Poison Spit"],
+    "arenas": [
+      {
+        "id": 1,
+        "name": "Titanic Plains",
+        "environment": "Plains"
+      },
+      {
+        "id": 4,
+        "name": "Wetland Aspect",
+        "environment": "Swamp"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Stone Titan",
+    "description": "An ancient stone guardian that fires devastating laser beams.",
+    "health": 2800,
+    "isActive": true,
+    "firstEncounterDate": "2020-03-31",
+    "imageUrl": "https://example.com/bosses/stone_titan.jpg",
+    "difficulty": "Medium",
+    "abilities": ["Laser Beam", "Ground Slam"],
+    "arenas": [
+      {
+        "id": 1,
+        "name": "Titanic Plains",
+        "environment": "Plains"
+      },
+      {
+        "id": 3,
+        "name": "Rallypoint Delta",
+        "environment": "Snow"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Magma Worm",
+    "description": "A colossal worm that erupts from the ground in fiery explosions.",
+    "health": 3000,
+    "isActive": true,
+    "firstEncounterDate": "2020-03-31",
+    "imageUrl": "https://example.com/bosses/magma_worm.jpg",
+    "difficulty": "Hard",
+    "abilities": ["Burrow", "Fire Trail"],
+    "arenas": [
+      {
+        "id": 2,
+        "name": "Abyssal Depths",
+        "environment": "Volcanic"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Imp Overlord",
+    "description": "A powerful imp capable of teleportation and deadly melee attacks.",
+    "health": 2600,
+    "isActive": true,
+    "firstEncounterDate": "2020-03-31",
+    "imageUrl": "https://example.com/bosses/imp_overlord.jpg",
+    "difficulty": "Medium",
+    "abilities": ["Teleport", "Imp Slash"],
+    "arenas": [
+      {
+        "id": 4,
+        "name": "Wetland Aspect",
+        "environment": "Swamp"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Clay Dunestrider",
+    "description": "A towering clay construct that drains life from nearby enemies.",
+    "health": 3200,
+    "isActive": true,
+    "firstEncounterDate": "2020-03-31",
+    "imageUrl": "https://example.com/bosses/clay_dunestrider.jpg",
+    "difficulty": "Hard",
+    "abilities": ["Life Drain", "Sand Blast"],
+    "arenas": [
+      {
+        "id": 2,
+        "name": "Abyssal Depths",
+        "environment": "Volcanic"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Grovetender",
+    "description": "A forest guardian that controls roots and healing wisps.",
+    "health": 2500,
+    "isActive": true,
+    "firstEncounterDate": "2020-08-11",
+    "imageUrl": "https://example.com/bosses/grovetender.jpg",
+    "difficulty": "Medium",
+    "abilities": ["Root Trap", "Summon Wisps"],
+    "arenas": [
+      {
+        "id": 4,
+        "name": "Wetland Aspect",
+        "environment": "Swamp"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Solus Control Unit",
+    "description": "A mechanical boss composed of multiple drone units.",
+    "health": 2900,
+    "isActive": true,
+    "firstEncounterDate": "2020-03-31",
+    "imageUrl": "https://example.com/bosses/solus_control_unit.jpg",
+    "difficulty": "Hard",
+    "abilities": ["Drone Barrage", "Missile Launch"],
+    "arenas": [
+      {
+        "id": 3,
+        "name": "Rallypoint Delta",
+        "environment": "Snow"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Wandering Vagrant",
+    "description": "A floating jellyfish-like creature with powerful energy blasts.",
+    "health": 2400,
+    "isActive": true,
+    "firstEncounterDate": "2020-03-31",
+    "imageUrl": "https://example.com/bosses/wandering_vagrant.jpg",
+    "difficulty": "Easy",
+    "abilities": ["Energy Blast", "Nova Explosion"],
+    "arenas": [
+      {
+        "id": 1,
+        "name": "Titanic Plains",
+        "environment": "Plains"
+      },
+      {
+        "id": 3,
+        "name": "Rallypoint Delta",
+        "environment": "Snow"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Alloy Worship Unit",
+    "description": "A fast-moving mechanical boss that adapts to combat situations.",
+    "health": 3100,
+    "isActive": true,
+    "firstEncounterDate": "2020-08-11",
+    "imageUrl": "https://example.com/bosses/alloy_worship_unit.jpg",
+    "difficulty": "Hard",
+    "abilities": ["Charge Attack", "Plasma Shots"],
+    "arenas": [
+      {
+        "id": 3,
+        "name": "Rallypoint Delta",
+        "environment": "Snow"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Mithrix",
+    "description": "The King of Nothing, final boss of Risk of Rain 2.",
+    "health": 5000,
+    "isActive": true,
+    "firstEncounterDate": "2020-08-11",
+    "imageUrl": "https://example.com/bosses/mithrix.jpg",
+    "difficulty": "Extreme",
+    "abilities": ["Hammer Slam", "Item Steal", "Phase Shift"],
+    "arenas": [
+      {
+        "id": 5,
+        "name": "Sky Meadow",
+        "environment": "Floating"
+      }
+    ]
+  }
+]

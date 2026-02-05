@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Titanic Plains",
+    "environment": "Plains",
+    "isOpenArea": true,
+    "dangerLevel": 3,
+    "imageUrl": "https://example.com/arenas/titanic_plains.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Abyssal Depths",
+    "environment": "Volcanic",
+    "isOpenArea": false,
+    "dangerLevel": 5,
+    "imageUrl": "https://example.com/arenas/abyssal_depths.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rallypoint Delta",
+    "environment": "Snow",
+    "isOpenArea": true,
+    "dangerLevel": 4,
+    "imageUrl": "https://example.com/arenas/rallypoint_delta.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Wetland Aspect",
+    "environment": "Swamp",
+    "isOpenArea": true,
+    "dangerLevel": 3,
+    "imageUrl": "https://example.com/arenas/wetland_aspect.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sky Meadow",
+    "environment": "Floating",
+    "isOpenArea": true,
+    "dangerLevel": 5,
+    "imageUrl": "https://example.com/arenas/sky_meadow.jpg"
+  }
+]
