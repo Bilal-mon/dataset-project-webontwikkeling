@@ -29,7 +29,7 @@
     "health": 2800,
     "isActive": true,
     "firstEncounterDate": "2020-03-31",
-    "imageUrl": "https://example.com/bosses/stone_titan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Stone_Titan.webp",
     "difficulty": "Medium",
     "abilities": ["Laser Beam", "Ground Slam"],
     "arenas": [
@@ -52,7 +52,7 @@
     "health": 3000,
     "isActive": true,
     "firstEncounterDate": "2020-03-31",
-    "imageUrl": "https://example.com/bosses/magma_worm.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Magma_Worm.webp",
     "difficulty": "Hard",
     "abilities": ["Burrow", "Fire Trail"],
     "arenas": [
@@ -70,7 +70,7 @@
     "health": 2600,
     "isActive": true,
     "firstEncounterDate": "2020-03-31",
-    "imageUrl": "https://example.com/bosses/imp_overlord.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Imp_Overlord.webp",
     "difficulty": "Medium",
     "abilities": ["Teleport", "Imp Slash"],
     "arenas": [
@@ -88,7 +88,7 @@
     "health": 3200,
     "isActive": true,
     "firstEncounterDate": "2020-03-31",
-    "imageUrl": "https://example.com/bosses/clay_dunestrider.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Clay_Dunestrider.webp",
     "difficulty": "Hard",
     "abilities": ["Life Drain", "Sand Blast"],
     "arenas": [
@@ -106,7 +106,7 @@
     "health": 2500,
     "isActive": true,
     "firstEncounterDate": "2020-08-11",
-    "imageUrl": "https://example.com/bosses/grovetender.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Grovetender.webp",
     "difficulty": "Medium",
     "abilities": ["Root Trap", "Summon Wisps"],
     "arenas": [
@@ -124,7 +124,7 @@
     "health": 2900,
     "isActive": true,
     "firstEncounterDate": "2020-03-31",
-    "imageUrl": "https://example.com/bosses/solus_control_unit.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Solus_Control_Unit.webp",
     "difficulty": "Hard",
     "abilities": ["Drone Barrage", "Missile Launch"],
     "arenas": [
@@ -142,7 +142,7 @@
     "health": 2400,
     "isActive": true,
     "firstEncounterDate": "2020-03-31",
-    "imageUrl": "https://example.com/bosses/wandering_vagrant.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Wandering_Vagrant.webp",
     "difficulty": "Easy",
     "abilities": ["Energy Blast", "Nova Explosion"],
     "arenas": [
@@ -165,7 +165,7 @@
     "health": 3100,
     "isActive": true,
     "firstEncounterDate": "2020-08-11",
-    "imageUrl": "https://example.com/bosses/alloy_worship_unit.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Alloy_Worship_Unit.webp",
     "difficulty": "Hard",
     "abilities": ["Charge Attack", "Plasma Shots"],
     "arenas": [
@@ -183,7 +183,7 @@
     "health": 5000,
     "isActive": true,
     "firstEncounterDate": "2020-08-11",
-    "imageUrl": "https://example.com/bosses/mithrix.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Mithrix.webp",
     "difficulty": "Extreme",
     "abilities": ["Hammer Slam", "Item Steal", "Phase Shift"],
     "arenas": [
