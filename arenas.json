@@ -38,5 +38,13 @@
     "isOpenArea": true,
     "dangerLevel": 5,
     "imageUrl": "https://example.com/arenas/sky_meadow.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Commencement",
+    "environment": "Lunar",
+    "isOpenArea": true,
+    "dangerLevel": 6,
+    "imageUrl": "https://example.com/arenas/commencement.jpg"
   }
 ]

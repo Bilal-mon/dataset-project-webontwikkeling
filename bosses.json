@@ -6,7 +6,7 @@
     "health": 2100,
     "isActive": true,
     "firstEncounterDate": "2020-03-31",
-    "imageUrl": "https://example.com/bosses/beetle_queen.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/Beetle_Queen.webp",
     "difficulty": "Easy",
     "abilities": ["Summon Beetles", "Poison Spit"],
     "arenas": [
@@ -189,7 +189,7 @@
     "arenas": [
       {
         "id": 5,
-        "name": "Sky Meadow",
+        "name": "Commencement",
         "environment": "Floating"
       }
     ]
