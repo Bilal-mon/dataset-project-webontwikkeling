@@ -5,7 +5,7 @@
     "environment": "Plains",
     "isOpenArea": true,
     "dangerLevel": 3,
-    "imageUrl": "https://example.com/arenas/titanic_plains.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/arenas/Titanic_Plains.webp"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "environment": "Volcanic",
     "isOpenArea": false,
     "dangerLevel": 5,
-    "imageUrl": "https://example.com/arenas/abyssal_depths.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/arenas/Abyssal_Depths.webp"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "environment": "Snow",
     "isOpenArea": true,
     "dangerLevel": 4,
-    "imageUrl": "https://example.com/arenas/rallypoint_delta.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/arenas/Rallypoint_Delta.webp"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "environment": "Swamp",
     "isOpenArea": true,
     "dangerLevel": 3,
-    "imageUrl": "https://example.com/arenas/wetland_aspect.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/arenas/Wetland_Aspect.webp"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "environment": "Floating",
     "isOpenArea": true,
     "dangerLevel": 5,
-    "imageUrl": "https://example.com/arenas/sky_meadow.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/arenas/Sky_Meadow.webp"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "environment": "Lunar",
     "isOpenArea": true,
     "dangerLevel": 6,
-    "imageUrl": "https://example.com/arenas/commencement.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/images/arenas/Commencement.webp"
   }
 ]
