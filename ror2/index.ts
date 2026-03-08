@@ -16,6 +16,7 @@ function printBoss(boss: Boss): void {
     console.log(`Active: ${boss.isActive}`);
     console.log(`First seen: ${boss.firstEncounterDate}`);
     console.log(`Abilities: ${boss.abilities.join(", ")}`);
+    console.log(`Image: ${boss.imageUrl}`);
     console.log(`Arenas:`);
     for (let arena of boss.arenas) {
         console.log(`- ${arena.name} (${arena.environment})`);
