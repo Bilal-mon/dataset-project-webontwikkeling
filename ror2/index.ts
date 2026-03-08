@@ -1,8 +1,8 @@
 import readline from "readline-sync"
 import {Boss, Arena} from "./types";
 
-const BOSSES_URL: string = "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/bosses.json";
-const ARENAS_URL: string = "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/arenas.json";
+const BOSSES_URL: string = "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/data/bosses.json";
+const ARENAS_URL: string = "https://raw.githubusercontent.com/Bilal-mon/dataset-project-webontwikkeling/refs/heads/main/data/arenas.json";
 
 function printBossSummary(boss: Boss): void {
     console.log(`- ${boss.name} (${boss.id})`);
